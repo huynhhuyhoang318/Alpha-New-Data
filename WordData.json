@@ -1,0 +1,93 @@
+{
+  "1": [
+    "Potassium",
+    "Sodium",
+    "Barium",
+    "Calcium",
+    "Magnesium",
+    "Aluminium",
+    "Zinc",
+    "Iron",
+    "Nickel",
+    "Tin",
+    "Lead",
+    "Copper",
+    "Mercury",
+    "Silver",
+    "Platinum",
+    "Gold"
+  ],
+  "2": [
+    "Chlorine",
+    "Fluorine",
+    "Bromine",
+    "Iodine",
+    "Oxygen",
+    "Nitrogen",
+    "Carbon",
+    "Sulfur",
+    "Hydrogen",
+    "Phosphorus",
+    "Helium",
+    "Neon"
+  ],
+  "3": [
+    "Hydrochloric acid",
+    "Sulfuric acid",
+    "Nitric acid",
+    "Carbonic acid",
+    "Phosphoric acid"
+  ],
+  "4": [
+    "Sodium hydroxide",
+    "Calcium hydroxide"
+  ],
+  "5": [
+    "Carbon dioxide",
+    "Carbon monoxide",
+    "Sulfur dioxide",
+    "Nitrogen dioxide",
+    "Nitrous oxide",
+    "Magnesium oxide"
+  ],
+  "6": [
+    "Sodium chloride",
+    "Calcium chloride",
+    "Sodium bicarbonate",
+    "Sodium carbonate",
+    "Calcium carbonate",
+    "Barium sulfate"
+  ],
+  "7": [
+    "Air",
+    "Alkali metal",
+    "Alkali",
+    "Alloy",
+    "Atom",
+    "Atomic number",
+    "Bronze",
+    "Chemical formula",
+    "Chemical symbol",
+    "Chemical",
+    "Compound",
+    "Element",
+    "Gas",
+    "Group",
+    "Liquid",
+    "Mass",
+    "Metal",
+    "Molecule",
+    "Noble gas",
+    "Non metal",
+    "Nucleus",
+    "Number",
+    "Period",
+    "Periodic Table",
+    "Solid",
+    "Solution",
+    "State",
+    "Steel",
+    "Substance",
+    "Symbol"
+  ]
+}

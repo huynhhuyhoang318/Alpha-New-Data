@@ -1,0 +1,324 @@
+{
+  "1": {
+    "Potassium": {
+      "letters": "P|o|t|a|ss|i|um",
+      "phonemes": "p|ə|t|æ|s|i|əm"
+    },
+    "Sodium": {
+      "letters": "S|o|d|i|um",
+      "phonemes": "s|əʊ|d|i|əm"
+    },
+    "Barium": {
+      "letters": "B|a|r|i|um",
+      "phonemes": "b|eə|r|i|əm"
+    },
+    "Calcium": {
+      "letters": "C|al|c|i|um",
+      "phonemes": "k|æl|s|i|əm"
+    },
+    "Magnesium": {
+      "letters": "M|ag|n|e|s|i|um",
+      "phonemes": "m|æɡ|n|iː|z|i|əm"
+    },
+    "Aluminium": {
+      "letters": "A|l|u|m|i|n|i|um",
+      "phonemes": "æ|l|jə|m|ɪ|n|i|əm"
+    },
+    "Zinc": {
+      "letters": "Z|i|n|c",
+      "phonemes": "z|ɪ|ŋ|k"
+    },
+    "Iron": {
+      "letters": "I|r|on",
+      "phonemes": "aɪ|ə|n"
+    },
+    "Nickel": {
+      "letters": "N|i|ck|e|l",
+      "phonemes": "n|ɪ|k|ə|l"
+    },
+    "Tin": {
+      "letters": "T|i|n",
+      "phonemes": "t|ɪ|n"
+    },
+    "Lead": {
+      "letters": "L|ea|d",
+      "phonemes": "l|iː|d"
+    },
+    "Copper": {
+      "letters": "C|o|pp|e|r",
+      "phonemes": "k|ɒ|p|ə|r"
+    },
+    "Mercury": {
+      "letters": "M|er|c|u|r|y",
+      "phonemes": "m|ɜː|k|jə|r|i"
+    },
+    "Silver": {
+      "letters": "S|i|l|v|e|r",
+      "phonemes": "s|ɪ|l|v|ə|r"
+    },
+    "Platinum": {
+      "letters": "P|l|a|t|i|n|um",
+      "phonemes": "p|l|æ|t|ɪ|n|əm"
+    },
+    "Gold": {
+      "letters": "G|o|l|d",
+      "phonemes": "ɡ|əʊ|l|d"
+    }
+  },
+  "2": {
+    "Chlorine": {
+      "letters": "Ch|l|o|r|i|ne",
+      "phonemes": "kl|ɔː|r|iː|n"
+    },
+    "Fluorine": {
+      "letters": "Fl|u|o|r|i|ne",
+      "phonemes": "fl|ɔː|r|iː|n"
+    },
+    "Bromine": {
+      "letters": "Br|o|m|i|ne",
+      "phonemes": "br|əʊ|m|iː|n"
+    },
+    "Iodine": {
+      "letters": "I|o|d|i|ne",
+      "phonemes": "aɪ|ə|d|iː|n"
+    },
+    "Oxygen": {
+      "letters": "O|xy|g|e|n",
+      "phonemes": "ɒ|ks|ɪ|dʒ|ə|n"
+    },
+    "Nitrogen": {
+      "letters": "N|i|tr|o|g|e|n",
+      "phonemes": "n|aɪ|tr|ə|dʒ|ə|n"
+    },
+    "Carbon": {
+      "letters": "C|ar|b|on",
+      "phonemes": "k|ɑː|b|ə|n"
+    },
+    "Sulfur": {
+      "letters": "S|u|l|f|ur",
+      "phonemes": "s|ʌ|l|f|ə|r"
+    },
+    "Hydrogen": {
+      "letters": "H|y|dr|o|g|e|n",
+      "phonemes": "h|aɪ|dr|ə|dʒ|ə|n"
+    },
+    "Phosphorus": {
+      "letters": "Ph|o|s|ph|o|ru|s",
+      "phonemes": "f|ɒ|s|f|ə|r|ə|s"
+    },
+    "Helium": {
+      "letters": "H|e|l|i|um",
+      "phonemes": "h|iː|l|i|əm"
+    },
+    "Neon": {
+      "letters": "N|e|on",
+      "phonemes": "n|iː|ɒ|n"
+    }
+  },
+  "3": {
+    "Hydrochloric acid": {
+      "letters": "h|y|dr|o|ch|lor|i|c| |a|c|i|d",
+      "phonemes": "h|aɪ|dr|ə|kl|ɔː|r|ɪk| |æ|s|ɪ|d"
+    },
+    "Sulfuric acid": {
+      "letters": "s|u|l|f|ur|i|c| |a|c|i|d",
+      "phonemes": "s|ʌ|l|f|jʊə|r|ɪk| |æ|s|ɪ|d"
+    },
+    "Nitric acid": {
+      "letters": "n|i|tr|i|c| |a|c|i|d",
+      "phonemes": "n|aɪ|tr|ɪk| |æ|s|ɪ|d"
+    },
+    "Carbonic acid": {
+      "letters": "c|a|r|bon|i|c| |a|c|i|d",
+      "phonemes": "k|ɑː|b|ɒn|ɪk| |æ|s|ɪ|d"
+    },
+    "Phosphoric acid": {
+      "letters": "ph|o|sph|or|i|c| |a|c|i|d",
+      "phonemes": "f|ɒs|f|ɒr|ɪk| |æ|s|ɪ|d"
+    }
+  },
+  "4": {
+    "Sodium hydroxide": {
+      "letters": "s|o|d|i|um| |h|y|dr|ox|i|d|e",
+      "phonemes": "səʊ|d|i|ə|m| |h|aɪ|dr|ɒk|s|ai|d|e"
+    },
+    "Calcium hydroxide": {
+      "letters": "c|al|c|i|um| |h|y|dr|ox|i|d|e",
+      "phonemes": "k|æl|s|i|ə|m| |h|aɪ|dr|ɒk|s|ai|d|e"
+    }
+  },
+  "5": {
+    "Carbon dioxide": {
+      "letters": "c|a|r|b|o|n| |d|i|ox|i|d|e",
+      "phonemes": "k|ɑː|b|ə|n| |d|aɪ|ɒk|s|ai|d|e"
+    },
+    "Carbon monoxide": {
+      "letters": "c|a|r|b|o|n| |m|o|n|ox|i|d|e",
+      "phonemes": "k|ɑː|b|ə|n| |m|ə|n|ɒk|s|ai|d|e"
+    },
+    "Sulfur dioxide": {
+      "letters": "s|u|l|f|ur| |d|i|ox|i|d|e",
+      "phonemes": "s|ʌ|l|f|ə| |d|aɪ|ɒk|s|ai|d|e"
+    },
+    "Nitrogen dioxide": {
+      "letters": "n|i|tr|o|g|e|n| |d|i|ox|i|d|e",
+      "phonemes": "n|aɪ|tr|ə|dʒ|ə|n| |d|aɪ|ɒk|s|ai|d|e"
+    },
+    "Nitrous oxide": {
+      "letters": "n|i|tr|ou|s| |ox|i|d|e",
+      "phonemes": "n|aɪ|tr|əʊ|s| |ɒk|s|ai|d|e"
+    },
+    "Magnesium oxide": {
+      "letters": "m|ag|n|e|s|i|um| |ox|i|d|e",
+      "phonemes": "m|æɡ|n|iː|z|i|əm| |ɒk|s|ai|d|e"
+    }
+  },
+  "6": {
+    "Sodium chloride": {
+      "letters": "s|o|d|i|um| |ch|l|o|r|i|d|e",
+      "phonemes": "səʊ|d|i|ə|m| |kl|ɔː|r|ai|d|e"
+    },
+    "Calcium chloride": {
+      "letters": "c|al|c|i|um| |ch|l|o|r|i|d|e",
+      "phonemes": "k|æl|s|i|ə|m| |kl|ɔː|r|ai|d|e"
+    },
+    "Sodium bicarbonate": {
+      "letters": "s|o|d|i|um| |b|i|c|ar|b|o|n|a|t|e",
+      "phonemes": "səʊ|d|i|ə|m| |b|ai|k|ɑː|b|ə|n|ə|t|e"
+    },
+    "Sodium carbonate": {
+      "letters": "s|o|d|i|um| |c|ar|b|o|n|a|t|e",
+      "phonemes": "səʊ|d|i|ə|m| |k|ɑː|b|ə|n|eɪ|t|e"
+    },
+    "Calcium carbonate": {
+      "letters": "c|al|c|i|um| |c|ar|b|o|n|a|t|e",
+      "phonemes": "k|æl|s|i|ə|m| |k|ɑː|b|ə|n|eɪ|t|e"
+    },
+    "Barium sulfate": {
+      "letters": "b|ar|i|um| |s|u|l|f|a|t|e",
+      "phonemes": "b|eə|r|i|ə|m| |s|ʌ|l|f|eɪ|t|e"
+    }
+  },
+  "7": {
+    "Air": {
+      "letters": "ai|r",
+      "phonemes": "eə|r"
+    },
+    "Alkali metal": {
+      "letters": "a|l|k|a|l|i| |m|e|t|a|l",
+      "phonemes": "æ|l|k|ə|l|aɪ| |m|e|t|ə|l"
+    },
+    "Alkali": {
+      "letters": "a|l|k|a|l|i",
+      "phonemes": "æ|l|k|ə|l|aɪ"
+    },
+    "Alloy": {
+      "letters": "a|ll|oy",
+      "phonemes": "æ|l|ɒɪ"
+    },
+    "Atom": {
+      "letters": "a|t|o|m",
+      "phonemes": "æ|t|ə|m"
+    },
+    "Atomic number": {
+      "letters": "a|t|o|m|i|c| |n|u|m|b|e|r",
+      "phonemes": "ə|t|ɒ|m|ɪ|k| |n|ʌ|m|b|ə|r"
+    },
+    "Bronze": {
+      "letters": "br|o|n|ze",
+      "phonemes": "br|ɒ|n|z"
+    },
+    "Chemical formula": {
+      "letters": "ch|e|m|i|c|a|l| |f|o|r|m|u|l|a",
+      "phonemes": "k|e|m|ɪ|k|ə|l| |f|ɔː|m|j|ə|l|ə"
+    },
+    "Chemical symbol": {
+      "letters": "ch|e|m|i|c|a|l| |s|y|m|b|o|l",
+      "phonemes": "k|e|m|ɪ|k|ə|l| |s|ɪ|m|b|ə|l"
+    },
+    "Chemical": {
+      "letters": "ch|e|m|i|c|a|l",
+      "phonemes": "k|e|m|ɪ|k|ə|l"
+    },
+    "Compound": {
+      "letters": "c|o|m|p|ou|n|d",
+      "phonemes": "k|ɒ|m|p|aʊ|n|d"
+    },
+    "Element": {
+      "letters": "e|l|e|m|e|n|t",
+      "phonemes": "e|l|ɪ|m|ə|n|t"
+    },
+    "Gas": {
+      "letters": "g|a|s",
+      "phonemes": "ɡ|æ|s"
+    },
+    "Group": {
+      "letters": "gr|ou|p",
+      "phonemes": "ɡr|uː|p"
+    },
+    "Liquid": {
+      "letters": "l|i|qu|i|d",
+      "phonemes": "l|ɪ|kw|ɪ|d"
+    },
+    "Mass": {
+      "letters": "m|a|ss",
+      "phonemes": "m|æ|s"
+    },
+    "Metal": {
+      "letters": "m|e|t|a|l",
+      "phonemes": "m|e|t|ə|l"
+    },
+    "Molecule": {
+      "letters": "m|o|l|e|c|u|l|e",
+      "phonemes": "m|ɒ|l|ɪ|k|j|uː|l"
+    },
+    "Noble gas": {
+      "letters": "n|o|b|l|e| |g|a|s",
+      "phonemes": "n|əʊ|b|ə|l| |ɡ|æ|s"
+    },
+    "Non metal": {
+      "letters": "n|o|n| |m|e|t|a|l",
+      "phonemes": "n|ɒ|n| |m|e|t|ə|l"
+    },
+    "Nucleus": {
+      "letters": "n|u|c|l|e|u|s",
+      "phonemes": "n|juː|k|l|i|ə|s"
+    },
+    "Number": {
+      "letters": "n|u|m|b|e|r",
+      "phonemes": "n|ʌ|m|b|ə|r"
+    },
+    "Period": {
+      "letters": "p|e|r|i|o|d",
+      "phonemes": "p|ɪə|r|i|ə|d"
+    },
+    "Periodic Table": {
+      "letters": "p|e|r|i|o|d|i|c| |t|a|b|l|e",
+      "phonemes": "p|ɪə|r|i|ɒ|d|ɪ|k| |t|eɪ|b|ə|l"
+    },
+    "Solid": {
+      "letters": "s|o|l|i|d",
+      "phonemes": "s|ɒ|l|ɪ|d"
+    },
+    "Solution": {
+      "letters": "s|o|l|u|tion",
+      "phonemes": "s|ə|l|uː|ʃn"
+    },
+    "State": {
+      "letters": "s|t|a|te",
+      "phonemes": "s|t|eɪ|t"
+    },
+    "Steel": {
+      "letters": "s|t|ee|l",
+      "phonemes": "s|t|iː|l"
+    },
+    "Substance": {
+      "letters": "s|u|b|s|t|a|n|ce",
+      "phonemes": "s|ʌ|b|s|t|ə|n|s"
+    },
+    "Symbol": {
+      "letters": "s|y|m|b|o|l",
+      "phonemes": "s|ɪ|m|b|ə|l"
+    }
+  }
+}
