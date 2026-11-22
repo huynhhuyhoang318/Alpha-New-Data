@@ -320,5 +320,129 @@
       "letters": "s|y|m|b|o|l",
       "phonemes": "s|ɪ|m|b|ə|l"
     }
+  },
+  {
+  "8": {
+    "Beaker": {
+      "letters": "B|ea|k|er",
+      "phonemes": "b|iː|k|ə|r"
+    },
+    "Erlenmeyer flask": {
+      "letters": "E|r|l|e|n|m|ey|e|r| |fl|a|sk",
+      "phonemes": "ɜː|l|ə|n|m|aɪ|ə| |fl|ɑː|s|k"
+    },
+    "Volumetric flask": {
+      "letters": "V|o|l|u|m|e|t|r|i|c| |fl|a|sk",
+      "phonemes": "v|ɒ|l|j|ə|m|e|t|r|ɪ|k| |fl|ɑː|s|k"
+    },
+    "Burette": {
+      "letters": "B|ur|e|tte",
+      "phonemes": "b|jʊə|r|e|t"
+    },
+    "Pipette": {
+      "letters": "P|i|p|e|tte",
+      "phonemes": "p|ɪ|p|e|t"
+    },
+    "Graduated cylinder": {
+      "letters": "Gr|a|d|u|a|t|e|d| |c|y|l|i|n|d|er",
+      "phonemes": "ɡr|æ|d|j|u|eɪ|t|ɪ|d| |s|ɪ|l|ɪ|n|d|ə|r"
+    },
+    "Test tube": {
+      "letters": "T|e|s|t| |t|u|be",
+      "phonemes": "t|e|s|t| |t|j|uː|b"
+    },
+    "Petri dish": {
+      "letters": "P|e|t|r|i| |d|i|sh",
+      "phonemes": "p|e|t|r|i| |d|ɪ|ʃ"
+    },
+    "Condenser": {
+      "letters": "C|o|n|d|e|n|s|er",
+      "phonemes": "k|ɒ|n|d|e|n|s|ə|r"
+    },
+    "Funnel": {
+      "letters": "F|u|nn|e|l",
+      "phonemes": "f|ʌ|n|ə|l"
+    },
+    "Dropper": {
+      "letters": "Dr|o|pp|er",
+      "phonemes": "dr|ɒ|p|ə|r"
+    },
+    "Rack": {
+      "letters": "R|a|ck",
+      "phonemes": "r|æ|k"
+    },
+    "Clamp": {
+      "letters": "Cl|a|m|p",
+      "phonemes": "kl|æ|m|p"
+    },
+    "Fume hood": {
+      "letters": "F|u|me| |h|oo|d",
+      "phonemes": "f|j|uː|m| |h|ʊ|d"
+    },
+    "Scale": {
+      "letters": "Sc|a|le",
+      "phonemes": "s|k|eɪ|l"
+    },
+    "Thermometer": {
+      "letters": "Th|er|m|o|m|e|t|er",
+      "phonemes": "θ|ə|m|ɒ|m|ɪ|t|ə|r"
+    },
+    "Reagent": {
+      "letters": "R|ea|g|e|n|t",
+      "phonemes": "r|iː|eɪ|dʒ|ə|n|t"
+    },
+    "Catalyst": {
+      "letters": "C|a|t|a|l|y|s|t",
+      "phonemes": "k|æ|t|ə|l|ɪ|s|t"
+    },
+    "Litmus paper": {
+      "letters": "L|i|t|m|u|s| |p|a|p|er",
+      "phonemes": "l|ɪ|t|m|ə|s| |p|eɪ|p|ə|r"
+    },
+    "Filtrate": {
+      "letters": "F|i|l|t|r|a|te",
+      "phonemes": "f|ɪ|l|t|r|eɪ|t"
+    },
+    "Precipitate (V)": {
+      "letters": "Pr|e|c|i|p|i|t|a|te",
+      "phonemes": "pr|ɪ|s|ɪ|p|ɪ|t|eɪ|t"
+    },
+    "Titration": {
+      "letters": "T|i|tr|a|t|i|on",
+      "phonemes": "t|aɪ|t|r|eɪ|ʃ|ə|n"
+    },
+    "Titrate (V)": {
+      "letters": "T|i|tr|a|te",
+      "phonemes": "t|aɪ|t|r|eɪ|t"
+    },
+    "Calibrate (V)": {
+      "letters": "C|a|l|i|br|a|te",
+      "phonemes": "k|æ|l|ɪ|br|eɪ|t"
+    },
+    "Vaporization": {
+      "letters": "V|a|p|or|i|z|a|t|i|on",
+      "phonemes": "v|eɪ|p|ə|r|aɪ|z|eɪ|ʃ|ə|n"
+    },
+    "Precipitation": {
+      "letters": "Pr|e|c|i|p|i|t|a|t|i|on",
+      "phonemes": "pr|ɪ|s|ɪ|p|ɪ|t|eɪ|ʃ|ə|n"
+    },
+    "Experiment": {
+      "letters": "E|x|p|er|i|m|e|n|t",
+      "phonemes": "ɪ|k|s|p|e|r|ɪ|m|ə|n|t"
+    },
+    "Safety glasses": {
+      "letters": "S|a|f|e|t|y| |gl|a|ss|e|s",
+      "phonemes": "s|eɪ|f|t|i| |ɡl|ɑː|s|ɪ|z"
+    },
+    "Lab coat": {
+      "letters": "L|a|b| |c|oa|t",
+      "phonemes": "l|æ|b| |k|əʊ|t"
+    },
+    "Laboratory": {
+      "letters": "L|a|b|o|r|a|t|o|r|y",
+      "phonemes": "l|ə|b|ɒ|r|ə|t|ə|r|i"
+    }
   }
+}
 }
