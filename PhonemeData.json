@@ -29,8 +29,8 @@
       "phonemes": "z|ɪ|ŋ|k"
     },
     "Iron": {
-      "letters": "I|r|on",
-      "phonemes": "aɪ|ə|n"
+      "letters": "Ir|on",
+      "phonemes": "aɪ|ən"
     },
     "Nickel": {
       "letters": "N|i|ck|e|l",
@@ -67,11 +67,11 @@
   },
   "2": {
     "Chlorine": {
-      "letters": "Ch|l|o|r|i|ne",
+      "letters": "Chl|o|r|i|ne",
       "phonemes": "kl|ɔː|r|iː|n"
     },
     "Fluorine": {
-      "letters": "Fl|u|o|r|i|ne",
+      "letters": "Fl|uo|r|i|ne",
       "phonemes": "fl|ɔː|r|iː|n"
     },
     "Bromine": {
@@ -83,27 +83,27 @@
       "phonemes": "aɪ|ə|d|iː|n"
     },
     "Oxygen": {
-      "letters": "O|xy|g|e|n",
+      "letters": "O|x|y|g|e|n",
       "phonemes": "ɒ|ks|ɪ|dʒ|ə|n"
     },
     "Nitrogen": {
-      "letters": "N|i|tr|o|g|e|n",
-      "phonemes": "n|aɪ|tr|ə|dʒ|ə|n"
+      "letters": "N|i|tr|o|g|en",
+      "phonemes": "n|aɪ|tr|ə|dʒ|ən"
     },
     "Carbon": {
       "letters": "C|ar|b|on",
-      "phonemes": "k|ɑː|b|ə|n"
+      "phonemes": "k|ɑː|b|ən"
     },
     "Sulfur": {
       "letters": "S|u|l|f|ur",
-      "phonemes": "s|ʌ|l|f|ə|r"
+      "phonemes": "s|ʌ|l|f|ər"
     },
     "Hydrogen": {
       "letters": "H|y|dr|o|g|e|n",
       "phonemes": "h|aɪ|dr|ə|dʒ|ə|n"
     },
     "Phosphorus": {
-      "letters": "Ph|o|s|ph|o|ru|s",
+      "letters": "Ph|o|s|ph|o|r|u|s",
       "phonemes": "f|ɒ|s|f|ə|r|ə|s"
     },
     "Helium": {
